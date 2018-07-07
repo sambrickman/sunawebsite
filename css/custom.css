@@ -1,0 +1,38 @@
+/*********************************************************************************
+
+	Template Name: Template full name
+	Template URI: https://themeforest.net/user/
+	Description: Template description
+	Author: author name
+	Author URI: author uri
+	Version: 1.0
+
+	Note: This is main css. All plugins css files import here.
+
+**********************************************************************************/
+
+
+.font-header{
+font-family: 'Raleway', sans-serif !important;
+}
+
+
+.font-subhead{
+  font-family: 'Oswald', sans-serif !important;
+}
+
+.color-orange{
+  color: #cf7002 !important;
+}
+
+.color-white{
+  color: white !important;
+}
+
+.color-black{
+  color: black !important;
+}
+
+.background-grey{
+  background-color: grey!important
+}
